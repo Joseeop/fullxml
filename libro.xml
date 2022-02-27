@@ -4,21 +4,21 @@
 	<libro>
 		<h2>OBRA: Everyday Italian</h2>
 		<p>•Año: 2005</p>
-		<p>•Precio:<span>29.99 €</span></p>
+		<p>•Precio:<span>29.99 </span>€</p>
 	</libro>
 	<libro>
 		<h2>OBRA: Harry potter</h2>
 		<p>•Año: 2005</p>
-		<span>•Precio:29.99 €</span>
+		<p>•Precio:<span>29.99 </span>€</p>
 	</libro>
 	<libro>
 		<h2>OBRA: XQuery Kickstart</h2>
 		<p>•Año: 2003</p>
-		<span>•Precio:49.99 €</span>
+		<p>•Precio:<span>49.99 </span>€</p>
 	</libro>
 	<libro>
 		<h2>OBRA: Learning XML (en)</h2>
 		<p>•Año: 2003</p>
-		<span>•Precio:39.95 €</span>
+		<p>•Precio:<span>39.95 </span>€</p>
 	</libro>
 </libros>
