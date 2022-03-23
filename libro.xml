@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="libro.css"?>
 <libros xmlns="http://www.w3.org/1999/xhtml">
-	<libro>
-		<h2>OBRA: Everyday Italian</h2>
-		<p>•Año: 2005</p>
-		<p>•Precio:<span>29.99 </span>€</p>
-	</libro>
-	<libro>
-		<h2>OBRA: Harry potter</h2>
-		<p>•Año: 2005</p>
-		<p>•Precio:<span>29.99 </span>€</p>
-	</libro>
-	<libro>
-		<h2>OBRA: XQuery Kickstart</h2>
-		<p>•Año: 2003</p>
-		<p>•Precio:<span>49.99 </span>€</p>
-	</libro>
-	<libro>
-		<h2>OBRA: Learning XML (en)</h2>
-		<p>•Año: 2003</p>
-		<p>•Precio:<span>39.95 </span>€</p>
-	</libro>
-</libros>
+    <book category="cooking">
+        <title lang="en">Everyday Italian</title>
+        <author>Giada De Laurentiis</author>
+        <year>2005</year>
+        <price>30.00</price>
+    </book>
+    <book category="children">
+        <title lang="en">Harry Potter</title>
+        <author>J K. Rowling</author>
+        <year>2005</year>
+        <price>29.99</price>
+    </book>
+    <book category="web">
+        <title lang="en">XQuery Kick Start</title>
+        <author>James McGovern</author>
+        <author>Per Bothner</author>
+        <author>Kurt Cagle</author>
+        <author>James Linn</author>
+        <author>Vaidyanathan Nagarajan</author>
+        <year>2003</year>
+        <price>49.99</price>
+    </book>
+    <book category="web" cover="paperback">
+        <title lang="en">Learning XML</title>
+        <author>Erik T. Ray</author>
+        <year>2003</year>
+        <price>39.95</price>
+    </book>
